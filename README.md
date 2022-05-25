@@ -1,5 +1,4 @@
 # IEEE_GRSL_2022_HSI-Mixer
-Source code for submitted paper titled "HSI-Mixer: Hyperspectral Image Classification Via the Spectral--Spatial Mixer Representation From Convolutions"
 
 This package contains the Pytorch codes for the algorithm presented in the paper:
 
